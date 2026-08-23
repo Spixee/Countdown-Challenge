@@ -10,6 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// countdown
+		IO.println("2026-08-22 test GitHub repo changes!!!\n");
 		IO.println("HELLO Countdown Challenge!!!");
 		IO.println("++++++++++++++++++++++++++");		
 		IO.println(System.lineSeparator());
